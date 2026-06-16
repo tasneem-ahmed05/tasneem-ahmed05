@@ -65,10 +65,10 @@ Projects involving object detection and image classification using deep learning
 
 ## Training and Activities
 
-* NTI Computer Vision Training
 * National Bank of Egypt Internship Program
 * NASA Space Apps Challenge Participant
 * InnovEgypt Program Participant
+* NTI Computer Vision Training
 
 ## Career Interests
 
@@ -80,6 +80,6 @@ Projects involving object detection and image classification using deep learning
 
 ## Contact
 
-LinkedIn: [Add your LinkedIn Profile]
+LinkedIn: https://www.linkedin.com/in/tasneem-ahmed-3451312bb/
 
-Email: [Add your Professional Email]
+Email: t74033141@gmail.com
