@@ -4,21 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+with+AI+%26+ML;Full+Stack+Developer+%7C+Flask+%7C+FastAPI;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:4776E6&height=3&width=800"/>
-
-<br/><br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=tasneem-ahmed05&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasneem-ahmed-3451312bb/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t74033141@gmail.com)
-
 </div>
 
 <br/>
 
-## 🌟 About Me
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:6C63FF,100:4776E6&height=90&section=header&text=About%20Me&fontSize=32&fontColor=fff&animation=fadeIn"/>
 
 ```python
 class Tasneem:
@@ -38,71 +28,38 @@ me.say_hi()
 >
 > 🔭 Currently working on my **graduation project** in Multi-Agent AI Systems.
 
-📫 Reach me at **t74033141@gmail.com**
+📫 **Email:** t74033141@gmail.com
+🔗 **LinkedIn:** linkedin.com/in/tasneem-ahmed-3451312bb
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4776E6,100:6C63FF&height=3&width=800"/>
-
-<br/>
-
-## 🎓 Education
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:4776E6,100:8E54E9&height=90&section=header&text=Education&fontSize=32&fontColor=fff&animation=fadeIn"/>
 
 **Egyptian Chinese University (ECU)**
 Bachelor's Degree — Computer Science, Artificial Intelligence specialization
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:4776E6&height=3&width=800"/>
-
-<br/>
-
-## 🧠 Tech Stack
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:8E54E9,100:6C63FF&height=90&section=header&text=Tech%20Stack&fontSize=32&fontColor=fff&animation=fadeIn"/>
 
 **Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql&theme=dark" />
-
-<br/><br/>
+Python · C++ · JavaScript · SQL
 
 **AI & Machine Learning**
-
-![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![DL](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge)
-
-<br/>
+Machine Learning · Deep Learning · Artificial Intelligence
 
 **Front-end & Back-end**
-
-<img src="https://skillicons.dev/icons?i=html,css,flask,fastapi,nodejs,express&theme=dark" />
-
-<br/><br/>
+HTML · CSS · Flask · FastAPI · Node.js · Express.js
 
 **Databases & Data**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,kafka&theme=dark" />
-![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Storm](https://img.shields.io/badge/Apache%20Storm-1D2731?style=for-the-badge&logo=apache&logoColor=white)
-
-<br/>
+MySQL · MongoDB · SQL Server · Apache Kafka · Apache Storm
 
 **Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,git,vscode,github&theme=dark" />
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-</div>
+Docker · Git · Prometheus · VS Code
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:4776E6&height=3&width=800"/>
-
-<br/>
-
-## 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:6C63FF,100:4776E6&height=90&section=header&text=Featured%20Projects&fontSize=32&fontColor=fff&animation=fadeIn"/>
 
 <table>
 <tr>
@@ -141,27 +98,19 @@ Currently wrapping up new full stack (Flask / API) projects — check back soon 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4776E6,100:6C63FF&height=3&width=800"/>
-
-<br/>
-
-## 🎯 Training & Activities
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:4776E6,100:8E54E9&height=90&section=header&text=Training%20%26%20Activities&fontSize=30&fontColor=fff&animation=fadeIn"/>
 
 | Program | Role |
 |---|---|
-| 🏦 National Bank of Egypt | Internship Program |
-| 🏦 CIB (Commercial International Bank) | Internship Program |
-| 📞 Contact | Internship Program |
-| 🚀 NASA Space Apps Challenge | Participant |
-| 💡 InnovEgypt Program | Participant |
+| National Bank of Egypt | Internship Program |
+| CIB (Commercial International Bank) | Internship Program |
+| Contact | Internship Program |
+| NASA Space Apps Challenge | Participant |
+| InnovEgypt Program | Participant |
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4776E6,100:6C63FF&height=3&width=800"/>
-
-<br/>
-
-## 📜 Certifications
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:8E54E9,100:6C63FF&height=90&section=header&text=Certifications&fontSize=32&fontColor=fff&animation=fadeIn"/>
 
 | Certification | Provider |
 |---|---|
@@ -172,11 +121,7 @@ Currently wrapping up new full stack (Flask / API) projects — check back soon 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:4776E6&height=3&width=800"/>
-
-<br/>
-
-## 📈 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:6C63FF,100:4776E6&height=90&section=header&text=GitHub%20Stats&fontSize=32&fontColor=fff&animation=fadeIn"/>
 
 <div align="center">
 
@@ -187,29 +132,13 @@ Currently wrapping up new full stack (Flask / API) projects — check back soon 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasneem-ahmed05&theme=radical&hide_border=true&background=0d1117&ring=6C63FF&fire=8E54E9"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasneem-ahmed05&theme=redical&hide_border=true&bg_color=0d1117&color=6C63FF&line=8E54E9&point=4776E6"/>
-
-<br/><br/>
-
-<img src="https://github-readme-trophies.vercel.app/?username=tasneem-ahmed05&theme=radical&no-frame=true&row=1&column=6"/>
-
 </div>
 
 <br/>
 
 <div align="center">
 
-### 💬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasneem-ahmed-3451312bb/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t74033141@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tasneem-ahmed05)
-
-<br/>
-
-**⭐ Thanks for visiting my profile — always open to collaborating on AI & full stack projects!**
+**Thanks for visiting my profile — always open to collaborating on AI & full stack projects!**
 
 </div>
 
