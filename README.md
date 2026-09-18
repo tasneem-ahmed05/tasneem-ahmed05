@@ -1,85 +1,141 @@
-# Tasneem Ahmed
+<div align="center">
 
-Computer Science Student at Egyptian Chinese University with a strong interest in Artificial Intelligence, Machine Learning, Data Engineering, and Backend Development.
+<!-- Typing animation header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Tasneem+Ahmed;AI+%26+Machine+Learning+Enthusiast;Data+Engineer+%7C+Backend+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-## About Me
+<br/>
 
-I am passionate about designing and developing intelligent systems that solve real-world problems. My interests include Machine Learning, Deep Learning, Computer Vision, Explainable AI, and scalable backend systems.
+<!-- Profile view counter -->
+![Profile views](https://komarev.com/ghpvc/?username=tasneem-ahmed05&color=6C63FF&style=flat-square&label=Profile+Views)
 
-## Technical Skills
+</div>
 
-### Programming Languages
+---
 
-* Python
-* C++
-* JavaScript
-* SQL
+### 🚀 About Me
 
-### AI & Machine Learning
+- 🎓 Computer Science Student at **Egyptian Chinese University (ECU)**
+- 🤖 Passionate about **AI, Machine Learning, Deep Learning & Computer Vision**
+- 🛠️ Interested in **Explainable AI**, scalable backend systems, and real-time data engineering
+- 🧠 Building intelligent systems that solve real-world problems
+- 💼 Currently exploring: ML Engineering, Data Engineering & Backend Development
+- 📫 Reach me at: **t74033141@gmail.com**
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* CNN
-* YOLO
-* ResNet
-* SHAP
-* Fuzzy C-Means (FCM)
-* ARIMA
+---
 
-### Backend Development
+### 🧰 Tech Stack
 
-* FastAPI
-* Node.js
-* Express.js
+<div align="center">
 
-### Databases
+**Languages**
 
-* SQL Server
-* MySQL
-* MongoDB
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Data Engineering
+**AI & Machine Learning**
 
-* Apache Kafka
-* Apache Storm
-* Prometheus
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![DL](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-## Projects
+**Backend & Databases**
 
-### Intelligent Student Performance System (ISPS)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-An AI-powered platform for student performance prediction and risk assessment using explainable AI, clustering techniques, forecasting models, and real-time analytics.
+**Data Engineering & Monitoring**
 
-### AI-Based Fraud Detection System
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Storm](https://img.shields.io/badge/Apache%20Storm-1D2731?style=for-the-badge&logo=apache&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-A machine learning solution designed to identify suspicious financial transactions using predictive models and intelligent classification techniques.
+</div>
 
-### Real-Time Streaming Analytics Dashboard
+---
 
-A distributed analytics platform using Kafka and Storm for real-time data processing and monitoring.
+### 🏆 Featured Projects
 
-### Computer Vision Applications
+<table>
+<tr>
+<td width="50%">
 
-Projects involving object detection and image classification using deep learning models such as YOLO and CNN architectures.
+**🎓 Intelligent Student Performance System (ISPS)**
+AI-powered platform for student performance prediction & risk assessment using explainable AI, clustering, and forecasting models.
+`Python` `ML` `SHAP` `FCM` `ARIMA`
 
-## Training and Activities
+</td>
+<td width="50%">
 
-* National Bank of Egypt Internship Program
-* NASA Space Apps Challenge Participant
-* InnovEgypt Program Participant
-* NTI Computer Vision Training
+**🔍 AI-Based Fraud Detection System**
+ML solution to identify suspicious financial transactions using predictive models and intelligent classification.
+`Python` `ML` `Classification`
 
-## Career Interests
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-* Artificial Intelligence
-* Machine Learning Engineering
-* Data Engineering
-* Backend Development
-* Computer Vision
+**📊 Real-Time Streaming Analytics Dashboard**
+Distributed analytics platform for real-time data processing and monitoring.
+`Kafka` `Storm` `Real-Time`
 
-## Contact
+</td>
+<td width="50%">
 
-LinkedIn: https://www.linkedin.com/in/tasneem-ahmed-3451312bb/
+**👁️ Computer Vision Applications**
+Object detection & image classification using deep learning models like YOLO and CNN.
+`YOLO` `CNN` `Deep Learning`
 
-Email: t74033141@gmail.com
+</td>
+</tr>
+</table>
+
+---
+
+### 🎯 Training & Activities
+
+- 🏦 National Bank of Egypt Internship Program
+- 🚀 NASA Space Apps Challenge Participant
+- 💡 InnovEgypt Program Participant
+- 👁️ NTI Computer Vision Training
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tasneem-ahmed05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasneem-ahmed05&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tasneem-ahmed05&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasneem-ahmed05&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasneem-ahmed-3451312bb/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t74033141@gmail.com)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
+</div>
