@@ -62,28 +62,55 @@ Bachelor's Degree — Computer Science, Artificial Intelligence Specialization
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td width="20%"><b>Languages</b></td>
-<td width="80%">Python · C++ · JavaScript · SQL</td>
-</tr>
-<tr>
-<td><b>AI &amp; Machine Learning</b></td>
-<td>Machine Learning · Deep Learning · Artificial Intelligence · Explainable AI</td>
-</tr>
-<tr>
-<td><b>Front-end &amp; Back-end</b></td>
-<td>HTML · CSS · Flask · FastAPI · Node.js · Express.js</td>
-</tr>
-<tr>
-<td><b>Databases &amp; Data</b></td>
-<td>MySQL · MongoDB · SQL Server · Apache Kafka · Apache Storm</td>
-</tr>
-<tr>
-<td><b>Tools &amp; DevOps</b></td>
-<td>Docker · Git · Prometheus · VS Code</td>
-</tr>
-</table>
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/C++-8E54E9?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/JavaScript-4776E6?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SQL-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+**AI &amp; Machine Learning**
+<br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8E54E9?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-4776E6?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-8E54E9?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+**Front-end &amp; Back-end**
+<br/>
+<img src="https://img.shields.io/badge/HTML-4776E6?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/CSS-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Flask-8E54E9?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FastAPI-4776E6?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Node.js-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Express.js-8E54E9?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+**Databases &amp; Data**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4776E6?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MongoDB-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SQL%20Server-8E54E9?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-4776E6?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Apache%20Storm-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+**Tools &amp; DevOps**
+<br/>
+<img src="https://img.shields.io/badge/Docker-8E54E9?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Git-4776E6?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Prometheus-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/VS%20Code-8E54E9?style=for-the-badge&labelColor=0d1117"/>
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:4776E6&height=3&width=850"/>
