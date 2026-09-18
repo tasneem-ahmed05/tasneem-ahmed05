@@ -29,7 +29,12 @@ me.say_hi()
 > 🔭 Currently working on my **graduation project** in Multi-Agent AI Systems.
 
 📫 **Email:** t74033141@gmail.com
-🔗 **LinkedIn:** linkedin.com/in/tasneem-ahmed-3451312bb
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasneem-ahmed-3451312bb)
+
+</div>
 
 <br/>
 
