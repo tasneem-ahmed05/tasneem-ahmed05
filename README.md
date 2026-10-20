@@ -6,7 +6,7 @@
 
 <br/>
 
-<sub>📍 Cairo, Egypt &nbsp;•&nbsp; 🎓 Egyptian Chinese University &nbsp;•&nbsp; ✉️ t74033141@gmail.com &nbsp;•&nbsp; 🔗 <a href="https://www.linkedin.com/in/tasneem-ahmed-3451312bb">LinkedIn</a></sub>
+<sub> Cairo, Egypt &nbsp;•&nbsp;  Egyptian Chinese University &nbsp;•&nbsp;  t74033141@gmail.com &nbsp;•&nbsp; 🔗 <a href="https://www.linkedin.com/in/tasneem-ahmed-3451312bb">LinkedIn</a></sub>
 
 <br/><br/>
 
@@ -20,17 +20,17 @@
 <tr>
 <td width="60%" valign="top">
 
-### 👩‍💻 About Me
+###  About Me
 
 Computer Science student specialized in **Artificial Intelligence**, with hands-on
 experience building predictive models and explainable AI systems. Comfortable
 working full stack — from data pipelines and APIs to front-end delivery —
 and shipping work with Docker along the way.
 
-🔭 &nbsp;Currently building my **graduation project** — a Multi-Agent AI System
-🌱 &nbsp;Currently deepening my skills in **Advanced Deep Learning** and **Cloud / DevOps**
-💬 &nbsp;Ask me about **explainable AI, predictive modeling, or Flask/FastAPI APIs**
-⚡ &nbsp;Fun fact: I'd rather debug a model at midnight than leave it uncertain
+ &nbsp;Currently building my **graduation project** — a Multi-Agent AI System
+ &nbsp;Currently deepening my skills in **Advanced Deep Learning** and **Cloud / DevOps**
+ &nbsp;Ask me about **explainable AI, predictive modeling, or Flask/FastAPI APIs**
+ &nbsp;Fun fact: I'd rather debug a model at midnight than leave it uncertain
 
 </td>
 <td width="40%" valign="top">
@@ -47,7 +47,7 @@ class Tasneem:
     )
 
     def say_hi(self):
-        return "Thanks for stopping by ✨"
+        return "Thanks for stopping by "
 
 
 tasneem = Tasneem()
@@ -66,7 +66,7 @@ print(tasneem.say_hi())
 
 <div align="center">
 
-### 🧬 Tech Stack
+###  Tech Stack
 
 </div>
 
@@ -113,14 +113,14 @@ print(tasneem.say_hi())
 
 <div align="center">
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 </div>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🎓 Intelligent Student Performance System</h3>
+<h3 align="center">  Student Performance System</h3>
 <p align="center">AI-powered platform for student performance prediction and risk assessment using explainable AI, clustering, and forecasting.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-6C63FF?style=flat-square&labelColor=161B22"/>
@@ -130,7 +130,7 @@ print(tasneem.say_hi())
 </p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🔍 AI-Based Fraud Detection System</h3>
+<h3 align="center"> AI-Based Fraud Detection System</h3>
 <p align="center">Machine learning solution to identify suspicious financial transactions using predictive models and classification.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-6C63FF?style=flat-square&labelColor=161B22"/>
@@ -141,7 +141,7 @@ print(tasneem.say_hi())
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">📊 Real-Time Streaming Analytics Dashboard</h3>
+<h3 align="center"> Real-Time Streaming Analytics Dashboard</h3>
 <p align="center">Distributed analytics platform using Kafka and Storm for real-time data processing and monitoring.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/-Kafka-6C63FF?style=flat-square&labelColor=161B22"/>
@@ -150,7 +150,7 @@ print(tasneem.say_hi())
 </p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🛠️ More on the Way</h3>
+<h3 align="center">  More on the Way</h3>
 <p align="center">Currently wrapping up new full stack (Flask / API) projects — check back soon for updates.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/-Flask-6C63FF?style=flat-square&labelColor=161B22"/>
@@ -171,7 +171,7 @@ print(tasneem.say_hi())
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 Training &amp; Activities
+###  Training &amp; Activities
 
 | Program | Role |
 |---|---|
@@ -184,7 +184,7 @@ print(tasneem.say_hi())
 </td>
 <td width="50%" valign="top">
 
-### 📜 Certifications
+###  Certifications
 
 | Certification | Provider |
 |---|---|
@@ -205,7 +205,7 @@ print(tasneem.say_hi())
 
 <div align="center">
 
-### 📈 GitHub Activity
+###  GitHub Activity
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=tasneem-ahmed05&show_icons=false&theme=radical&hide_border=true&count_private=true&bg_color=161B22&title_color=8E54E9&text_color=c9d1d9"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasneem-ahmed05&layout=compact&theme=radical&hide_border=true&bg_color=161B22&title_color=8E54E9&text_color=c9d1d9"/>
